@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EmpCarHelper</string>
+    <string name="login" />
+    <string name="title_activity_order_det">OrderDetAct</string>
+</resources>

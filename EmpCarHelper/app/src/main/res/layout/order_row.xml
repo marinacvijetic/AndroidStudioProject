@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_marginLeft="8dp"
+        android:id="@+id/order_no"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="705"
+        android:layout_marginTop="10dp"
+        android:textSize="22sp"
+        android:textColor="#ff0000"/>
+
+    <TextView
+        android:id="@+id/order_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="8dp"/>
+
+    <TextView
+        android:layout_marginLeft="8dp"
+        android:id="@+id/service_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:layout_marginLeft="8dp"
+        android:id="@+id/order_status"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:layout_marginTop="10dp"/>
+</LinearLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/item_onway" android:title="On way"/>
+    <item android:id="@+id/item_workon" android:title="Working on"/>
+    <item android:id="@+id/item_finished" android:title="Finished"/>
+    <item android:id="@+id/item_cancel" android:title="Cancelled"/>
+</menu>
